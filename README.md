@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mei Tao
-- 👀 I’m interested in applying deep learning to various applications
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on interesting CV projects
 - 📫 How to reach me: meitao87@outlook.com
